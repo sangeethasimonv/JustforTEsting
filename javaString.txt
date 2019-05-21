@@ -4,6 +4,8 @@ String functions
 charAt
 substring
 reverse
+.
+add few more string functions here
 
 
 thank you
